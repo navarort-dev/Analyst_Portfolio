@@ -1,3 +1,6 @@
 shop_sql
 create database 'sho_sql' 
 create table 'items'
+
+
+create table
