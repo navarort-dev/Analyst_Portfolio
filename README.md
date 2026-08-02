@@ -11,7 +11,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 ---
 [![](https://komarev.com/ghpvc/?username=navarort-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Projects Portfolio
+## Projects Portfolio
 
 ### 📦 1. Database Building w/ MSSQL
 > A beginner friendly dataset featuring a music library representing a symbolic Apple Music user 
@@ -19,8 +19,8 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 
 ---
 
-### 📦 2. Second Project Title Name
-> Another short summary statement focusing on solutions provided.
+### 📦 2. MSSQL Prompts 
+> Using the Microsoft WideWorldImporters Dataset, featured are relevant SQL prompts simulating realistic data exploration and processing.
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
