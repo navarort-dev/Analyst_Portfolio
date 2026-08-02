@@ -3,7 +3,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nava-Ort) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nava-Ort) www.linkedin.com/in/n-ort0905 
 
 
 # 💻 Tech Stack:
