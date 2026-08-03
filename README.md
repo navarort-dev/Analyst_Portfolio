@@ -22,7 +22,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 >[Clustering and Correlation Matrices](Clustering_and_correlation_matrix.html) 
 
 ### 📦 4. Python- Recommendation Systems for E-Commerce 
->[Recommendation Systems](Recommendation_Systems.ipynb)
+>[Recommendation Systems](Recommendation_Systems_N_Ort.html)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
