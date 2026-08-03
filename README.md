@@ -19,7 +19,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 > Using the [Microsoft's Wide World Importers Dataset](MSSQL_Prompts), featured are relevant SQL prompts simulating realistic data exploration and processing.
 
 ### 📦 3. Python- Clustering and Correlation Matrices for Retail Sales
->[Clustering and Correlation Matrices](Clustering_and_correlation_matrix.ipynb) 
+>[Clustering and Correlation Matrices](Clustering_and_correlation_matrix.html) 
 
 ### 📦 4. Python- Recommendation Systems for E-Commerce 
 >[Recommendation Systems](Recommendation_Systems.ipynb)
