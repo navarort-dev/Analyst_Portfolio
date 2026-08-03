@@ -16,7 +16,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 > A [beginner friendly dataset](Database Building) featuring a music library representing a symbolic Apple Music user 
 
 ### 📦 2. MSSQL Prompts 
-> Using the [Microsoft WideWorldImporters Dataset](MSSQL Prompts), featured are relevant SQL prompts simulating realistic data exploration and processing.
+> Using the [Microsoft WideWorldImporters Dataset]('MSSQL Prompts'), featured are relevant SQL prompts simulating realistic data exploration and processing.
 
 ### 📦 3. Clustering and Correlation Matrices- ipynb
 >[Clustering and Correlation Matrices](Clustering_and_correlation_matrix.ipynb) 
