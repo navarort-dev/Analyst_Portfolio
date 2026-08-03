@@ -22,6 +22,6 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 > Using the Microsoft WideWorldImporters Dataset, featured are relevant SQL prompts simulating realistic data exploration and processing.
 
 ### 📦 2. Clustering and Correlation Matrices- ipynb
-Read our [Contribution Guidelines](docs/CONTRIBUTING.md) to get started.
+Read our [Clustering and Correlation Matrices](docs/Clustering_and_correlation_matri) to get started.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
