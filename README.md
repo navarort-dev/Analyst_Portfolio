@@ -13,7 +13,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 ## Projects Portfolio
 
 ### 📦 1. SQL- Database Building for Music Streaming Platforms
-> A [beginner friendly dataset](Database_Building) featuring a music library representing a symbolic Apple Music user 
+> A [small database](Database_Building) featuring a music library representing a symbolic Apple Music user 
 
 ### 📦 2. SQL- Prompts for Exploratory Data Analysis
 > Using the [Microsoft's Wide World Importers Dataset](MSSQL_Prompts), featured are relevant SQL prompts simulating realistic data exploration and processing.
