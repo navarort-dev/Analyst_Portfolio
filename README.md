@@ -10,7 +10,7 @@ I'm an aspiring data analyst driven by the belief that data can be used to impro
 
 ---
 
-## Projects Portfolio (featured above)
+## Projects Portfolio
 
 ### 📦 1. Database Building w/ MSSQL
 > A [beginner friendly dataset](Database_Building) featuring a music library representing a symbolic Apple Music user 
