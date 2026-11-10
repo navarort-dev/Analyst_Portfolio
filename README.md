@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring data analyst driven by the belief that data can be used to improve the world around us. My goal is to work on projects that support innovation, strengthen our country's capabilities, and solve meaningful real-world problems. This GitHub showcases my journey as I continue developing analytical skills through practical projects in data analysis, visualization, and machine learning.
+I'm a data analyst driven by the belief that data can be used to improve the world around us. My goal is to work on projects that support innovation, strengthen our country's capabilities, and solve meaningful real-world problems. This GitHub showcases my journey as I continue developing analytical skills through practical projects in data analysis, visualization, and machine learning.
 
 
 ## 🌐 Socials:
